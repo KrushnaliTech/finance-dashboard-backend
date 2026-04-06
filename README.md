@@ -78,7 +78,7 @@ npm install
 3. **Create environment file**
 Create a `.env` file in the root directory:
 ```env
-JWT_SECRET=your_super_secret_key_change_this
+JWT_SECRET=fintechassignment
 PORT=3000
 ```
 
